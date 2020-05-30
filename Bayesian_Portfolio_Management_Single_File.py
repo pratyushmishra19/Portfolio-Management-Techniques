@@ -11,7 +11,7 @@ import scipy.special as sp
 # Punjab National (BOM532461)
 
 #This is the user's Quandl API key
-quandl.ApiConfig.api_key = 'BwVJXxh2299i825sPwtT'
+quandl.ApiConfig.api_key = 'XXXXX'
 
 # This is the start date for which you want to extract the data
 start_date_set = '2002-01-01'
